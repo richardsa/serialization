@@ -12,7 +12,7 @@ be full of mistakes, omissions, and misspellings. Working with and cleaning up d
 
 Your Task
 
-    <a href="http://tutorials.jumpstartlab.com/projects/eventmanager.html">This tutorial from Jumpstart Lab</a> walks you through just that sort of operation. Give it a shot.
+<a href="http://tutorials.jumpstartlab.com/projects/eventmanager.html">This tutorial from Jumpstart Lab</a> walks you through just that sort of operation. Give it a shot.
 
 ## Project: Hangman
 
